@@ -1,0 +1,7 @@
+public class exjava {
+public static void main (String [] args ){
+
+System.out.println("Hola soc el Josep i estic fent l'examen d'M01");
+}
+}
+
